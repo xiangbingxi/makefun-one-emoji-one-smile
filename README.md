@@ -1,8 +1,8 @@
 # One Emoji, One Smile
 
 [![make.fun](https://make.fun/badge/u-0xkianno-one-emoji-one-smile-5470751f.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f)
-[![Rank](https://make.fun/u-0xkianno-one-emoji-one-smile-5470751f/xiangbingxi/makefun-one-emoji-one-smile/rank.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f)
-[![Reward](https://make.fun/u-0xkianno-one-emoji-one-smile-5470751f/xiangbingxi/makefun-one-emoji-one-smile/reward.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f)
+[![Rank](https://make.fun/badge/u-0xkianno-one-emoji-one-smile-5470751f/xiangbingxi/makefun-one-emoji-one-smile/rank.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f)
+[![Reward](https://make.fun/badge/u-0xkianno-one-emoji-one-smile-5470751f/xiangbingxi/makefun-one-emoji-one-smile/reward.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f)
 
 Entry for the make.fun bounty [One Emoji, One Smile](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f).
 
